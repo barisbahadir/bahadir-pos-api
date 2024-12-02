@@ -1,4 +1,4 @@
-package com.bahadir.bahadir_pos_api;
+package com.bahadir.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
